@@ -1,0 +1,47 @@
+.double {
+ border-style: double;
+ border-width: 5px;
+}
+h1{
+ color: black;
+ text-align: center;
+ font-family: Copperplate, Papyrus,fantasy;
+ font-size: 400%;
+ text-shadow:-4px 4px 6px dimgrey;
+}
+label{
+ color:darkBlue;
+ font-size:35px;
+}
+
+h2{
+ color:white;
+ font-family: "Courier New",Sans-serif;
+ font-size: 35px;
+}
+p{
+ color: white;
+ font-family:monospace;
+ font-size: 30px;
+}
+form{
+  border: 2px solid black;
+  background-image: url(background.jpg);
+  background-position:center;
+  background-size:contain;
+  width: 40%;
+  margin:auto; 
+  padding-top: 50px;
+  padding-right: 300px;
+  padding-bottom: 50px;
+  padding-left: 300px;
+}
+
+button{
+  width: 20%;
+  background-color: darkBlue;
+  color: white;
+  font-size: 300%;
+  margin-left: 40%;
+  margin-right: 40%;
+}
