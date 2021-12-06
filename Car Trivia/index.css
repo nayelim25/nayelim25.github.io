@@ -1,0 +1,14 @@
+.double {
+	border-style: double;
+	border-width: 5px;
+}
+
+h2 {
+	font-family: Verdana, sans-serif;
+	text-shadow: 2px 2px 2px red;
+}
+
+* {
+	background-repeat: no-repeat;
+	background-position: right;
+}
